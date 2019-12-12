@@ -1,0 +1,7 @@
+com\example\microservices\devices\ApplicationConfig.class
+com\example\microservices\devices\DevicesApplication.class
+com\example\microservices\devices\DeviceServiceImpl.class
+com\example\microservices\devices\Device.class
+com\example\microservices\devices\DeviceDao.class
+com\example\microservices\devices\DeviceController.class
+com\example\microservices\devices\DeviceService.class
