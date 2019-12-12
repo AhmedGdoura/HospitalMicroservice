@@ -1,0 +1,7 @@
+com\example\microservices\rendezvous\RendezVous.class
+com\example\microservices\rendezvous\RendezVousDao.class
+com\example\microservices\rendezvous\RendezVousApplication.class
+com\example\microservices\rendezvous\RendezVousService.class
+com\example\microservices\rendezvous\ApplicationConfig.class
+com\example\microservices\rendezvous\RendezVousServiceImpl.class
+com\example\microservices\rendezvous\RendezVousController.class
