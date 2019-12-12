@@ -1,0 +1,5 @@
+com\example\project\AdminService.class
+com\example\project\Admin.class
+com\example\project\AdminRepository.class
+com\example\project\AdminRestAPI.class
+com\example\project\AdminApplication.class
